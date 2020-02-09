@@ -1,0 +1,252 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Symphobia
+</name>
+</assembly>
+<members>
+<member name="T:Symphobia.DataSet1.clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.compraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.detalleventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.empresaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.forma_pagoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.instrumentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.localidadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.marcaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.modeloDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.proveedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.compraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.detalleventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.empresaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.forma_pagoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.instrumentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.localidadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.marcaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.modeloRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.proveedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Symphobia.DataSet1.clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1.compraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1.detalleventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1.empresaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1.forma_pagoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1.instrumentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1.localidadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1.marcaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1.modeloRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1.proveedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1.ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Symphobia.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.compraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.detalleventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.empresaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.forma_pagoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.instrumentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.localidadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.marcaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.modeloTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.proveedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Symphobia.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Symphobia.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Symphobia.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Symphobia.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Symphobia.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Symphobia.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Symphobia.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Symphobia.DataSet1TableAdapters.TableAdapterManager.UpdateAll(Symphobia.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Symphobia.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Symphobia.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Symphobia.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Symphobia.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

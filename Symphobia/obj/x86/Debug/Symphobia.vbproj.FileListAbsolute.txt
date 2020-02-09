@@ -1,0 +1,123 @@
+F:\Symphobia\Symphobia\Symphobia\obj\x86\Debug\Interop.MSFlexGridLib.dll
+F:\Symphobia\Symphobia\Symphobia\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+F:\Symphobia\Symphobia\Symphobia\obj\x86\Debug\Symphobia.vbproj.ResolveComReference.cache
+C:\Users\sergio\Desktop\Symphobia\Symphobia\obj\x86\Debug\Interop.MSFlexGridLib.dll
+C:\Users\sergio\Desktop\Symphobia\Symphobia\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\sergio\Desktop\Symphobia\Symphobia\obj\x86\Debug\Symphobia.vbproj.ResolveComReference.cache
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.vbproj.ResolveComReference.cache
+E:\Symphobia\Symphobia\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.Form1.resources
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.Resources.resources
+E:\Symphobia\Symphobia\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Symphobia\Symphobia\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Symphobia\Symphobia\bin\Debug\Symphobia.exe
+E:\Symphobia\Symphobia\bin\Debug\Symphobia.pdb
+E:\Symphobia\Symphobia\bin\Debug\Symphobia.xml
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.exe
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.xml
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.pdb
+E:\Symphobia\Symphobia\bin\Debug\Interop.MSFlexGridLib.dll
+E:\Symphobia\Symphobia\bin\Debug\AxInterop.MSFlexGridLib.dll
+E:\Symphobia\Symphobia\obj\x86\Debug\Interop.MSFlexGridLib.dll
+E:\Symphobia\Symphobia\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.Form2.resources
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.Form3.resources
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.Form4.resources
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.Form5.resources
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.Form6.resources
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.Form7.resources
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.Form8.resources
+E:\Symphobia\Symphobia\obj\x86\Debug\Symphobia.Form9.resources
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.vbproj.ResolveComReference.cache
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.exe
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.xml
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.pdb
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Interop.MSFlexGridLib.dll
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.exe
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.pdb
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.xml
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Interop.MSFlexGridLib.dll
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\AxInterop.MSFlexGridLib.dll
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form1.resources
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form2.resources
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form3.resources
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form4.resources
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form5.resources
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form6.resources
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form7.resources
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form8.resources
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form9.resources
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Resources.resources
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Trabajos de Programacion\Visual 2010\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Interop.MSFlexGridLib.dll
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.vbproj.ResolveComReference.cache
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.exe
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.xml
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.pdb
+H:\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.exe
+H:\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.pdb
+H:\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.xml
+H:\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Interop.MSFlexGridLib.dll
+H:\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\AxInterop.MSFlexGridLib.dll
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Resources.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.exe.config
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.config_factura.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.detalleventa.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.main.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.login.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Reporte.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form9.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form4.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form3.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form5.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form2.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form6.resources
+H:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form8.resources
+E:\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.exe.config
+E:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Interop.MSFlexGridLib.dll
+E:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+E:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.vbproj.ResolveComReference.cache
+E:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.exe
+E:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.xml
+E:\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.pdb
+D:\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.exe.config
+D:\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.vbproj.ResolveComReference.cache
+D:\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.exe
+D:\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.xml
+D:\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.pdb
+D:\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Interop.MSFlexGridLib.dll
+D:\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.exe.config
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.vbproj.ResolveComReference.cache
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.exe
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.xml
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.pdb
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Interop.MSFlexGridLib.dll
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.exe
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.pdb
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Symphobia.xml
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\Interop.MSFlexGridLib.dll
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\bin\Debug\AxInterop.MSFlexGridLib.dll
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.vbprojResolveAssemblyReference.cache
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.config_factura.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.detalleventa.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.main.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form2.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form3.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form4.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form5.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form6.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form8.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Form9.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.login.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Resources.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.Reporte.resources
+E:\Programas\06 -PROGRAMACION\ITEC\3er cuatrimestre\EFI - Symphobia - Programacion 3\Symphobia\obj\x86\Debug\Symphobia.vbproj.GenerateResource.Cache
